@@ -8,8 +8,10 @@ It is running at:
 
 <br/>
 
+### Print screen:
+
 <div style="text-align: center;">
-  <img src="./images/phrase_app.png" height="77%" width="77%">
+  <img src="./images/phrase_app.png" height="97%" width="97%">
 </div>
 
 <br/>
