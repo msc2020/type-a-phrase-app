@@ -1,0 +1,8 @@
+.venv
+.env
+.spaceignore
+notebook
+Spacefile
+.space
+Discovery.md
+icons.png
