@@ -23,7 +23,7 @@ tqdm==4.64.1
 urllib3==1.26.14
 vaderSentiment==3.3.2
 waitress==2.1.2
-Werkzeug==2.2.3
+Werkzeug==3.0.3
 WTForms==3.0.1
 zipp==3.14.0
 nltk
