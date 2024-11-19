@@ -22,7 +22,7 @@ textblob==0.17.1
 tqdm==4.64.1
 urllib3==1.26.14
 vaderSentiment==3.3.2
-waitress==2.1.2
+waitress
 Werkzeug
 WTForms==3.0.1
 zipp==3.14.0
